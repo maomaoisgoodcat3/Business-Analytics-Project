@@ -33,15 +33,6 @@ A dedicated `KeyMeasures` table was created to house complex DAX calculations[ci
 
 ---
 
-## Dashboard Preview
-
-*(Insert screenshots of your Power BI Dashboard here)*
-
-![Dashboard Main View]([Link-To-Your-Image])  
-*Caption: Overview of the Grocery Sales Performance.*
-
----
-
 ## How to Explore This Project
 
 ### Option 1: View the Final Report (Quickest)
